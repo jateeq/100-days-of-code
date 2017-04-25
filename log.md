@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 23, 2017 (Autoquiz)
+
+### Day 2: April 24, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* set up a view for getting the target document, and redirect to 'thanks' page
+
+**Thoughts:** 
+* the django documentation is pretty good!
+
+**Link to work:** [This commit](https://github.com/jateeq/autoquiz/commit/435194063b7036be3608307a9e3769c33284ee3a)
+
+### Day 1: April 23, 2017 (Autoquiz)
 
 **Today's Progress**: 
 * set up a project wiki, and project management board on github
