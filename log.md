@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 3: April 25, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* set up a view for the results page
+
+**Thoughts:** 
+* the django documentation is pretty good!
+
+**Link to work:** [This commit](https://github.com/jateeq/Autoquiz/commit/4edbcc85def7c06fe6a16cd5d7b363784579b14d)
 
 ### Day 2: April 24, 2017 (Autoquiz)
 
