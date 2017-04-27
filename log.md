@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 4: April 26, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* Tried to prettify the front page
+* Created a base Django template for the rest of the pages to inherit from
+
+**Thoughts:** 
+* why was html written to be repeated across pages in the first place? Principles like DRY would have already been known at the time HTML was invented. 
+
+**Link to work:** [This commit](https://github.com/jateeq/Autoquiz/commit/d1b65853e429ddf0e6b6c6064a0b9ff560b25f3d)
+
 ### Day 3: April 25, 2017 (Autoquiz)
 
 **Today's Progress**: 
