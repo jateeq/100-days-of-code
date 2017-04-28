@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: April 27, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* Tried to prettify the front page
+* Tried to carry over results of document input into the results page. This wasn't complete.
+
+**Thoughts:** 
+* front-end dev is harder than it looks
+
+**Link to work:** [This commit](https://github.com/jateeq/Autoquiz/commit/d5b1bb44868bff8feb121eea8b05b1a5247ac905)
+
 
 ### Day 4: April 26, 2017 (Autoquiz)
 
