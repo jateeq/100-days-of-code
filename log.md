@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: April 28, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* Completed results carry over from yesterday.
+
+**Thoughts:** 
+
+
+**Link to work:** [This commit](https://github.com/jateeq/Autoquiz/commit/f7c6f45843d85141ca43de8b000486a7a405ddf1)
+
 ### Day 5: April 27, 2017 (Autoquiz)
 
 **Today's Progress**: 
