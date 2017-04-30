@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: April 29, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* Further prettified the front page.. Expanded the text area, used a bootstrap class for the summarize button and the navigation bar.
+
+**Thoughts:** 
+
+
+**Link to work:** [This commit](https://github.com/jateeq/Autoquiz/commit/836a228ec88de349a02a0c7463c295a3a5a951ad)
+
 ### Day 6: April 28, 2017 (Autoquiz)
 
 **Today's Progress**: 
