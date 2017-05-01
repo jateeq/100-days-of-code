@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 8: April 30, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* Further prettified the front page.. added a navbar to the base tempalate
+
+**Thoughts:** 
+
+
+**Link to work:** [This commit](https://github.com/jateeq/Autoquiz/commit/9fd69ec53d5567ccbe0393c6065201d2f2e93fd3)
+
 ### Day 7: April 29, 2017 (Autoquiz)
 
 **Today's Progress**: 
