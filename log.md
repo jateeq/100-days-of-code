@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+
+### Day 9: May 1, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* Using the django form template instead of defining my own
+* minor changes to front end
+
+**Thoughts:** 
+
+
+**Link to work:** [This commit](https://github.com/jateeq/Autoquiz/commit/330dc794d8fd78687ba0afbfb8f4e42b39a06bb2)
+
+
 ### Day 8: April 30, 2017 (Autoquiz)
 
 **Today's Progress**: 
