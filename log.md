@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: May 2, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* Index now points to tagetDoc page, also added an about page
+
+**Thoughts:** 
+
+
+**Link to work:** [This commit](https://github.com/jateeq/Autoquiz/commit/25f458d32da4ad5c9604d7cf9db4f5fc1396736f)
 
 ### Day 9: May 1, 2017 (Autoquiz)
 
