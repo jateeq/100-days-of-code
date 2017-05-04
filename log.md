@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: May 3, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* Add back button to show results page
+* Removed obsolete link
+
+**Thoughts:** 
+
+**Link to work:** [This commit](https://github.com/jateeq/Autoquiz/commit/6db1d0e658d0dcf0b5c9368e29db0674d5bcea7d)
+
+
 ### Day 9: May 2, 2017 (Autoquiz)
 
 **Today's Progress**: 
