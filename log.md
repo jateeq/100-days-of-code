@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+
+### Day 11: May 4, 2017 (Autoquiz)
+
+**Today's Progress**: 
+* Week 1 of Andrew Ng's Machine learning course
+
+**Thoughts:** 
+* Putting the app dev on hold for a few days, realized I'm not getting a chance to keep up with my learning given my busy work schedule so I'll have to compromise with actual hands-on coding
+
+**Link to work:** N/A
+
 ### Day 10: May 3, 2017 (Autoquiz)
 
 **Today's Progress**: 
